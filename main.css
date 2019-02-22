@@ -1,0 +1,139 @@
+body {
+	font-family: 'Impact', sans-serif;
+	background-image: url("./img/fume_fond.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #B22222;
+}
+
+#contact {
+	background-image: linear-gradient(black, #E80000);
+	width: 50%;
+	padding: 2rem;
+}
+
+.yt {
+	color: #B22222;
+}
+
+.tw {
+	color: #00BFFF;
+}
+
+.tc {
+	color: #800080;
+}
+
+.icon {
+	font-size: 30px;
+	margin-right: 7px;
+	margin-bottom: 0px;
+}
+
+.icon:hover {
+	color: black;
+}
+
+.background-black {
+	background-color: black;
+}
+
+.background-gris {
+	background-color: #282828;
+}
+
+.bigger {
+	font-size: 35px;
+}
+
+.twitch {
+	text-align: center;
+	margin-bottom: 100px;
+	width: 100%;
+}
+
+.twitch-player {
+	width: 58%;
+}
+
+.twitch-chat {
+	width: 18%;
+}
+
+
+.ban {
+	width: 100%;
+	display: block;
+	margin-bottom: 100px;
+}
+
+.bois {
+	background-image: url("./img/p_bois1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	width: 50%;
+	text-align: center;
+	display: inline-block;
+	padding: 15px;
+	margin-bottom: 300px;
+	filter: drop-shadow(0 0 0.75rem #9E3500);
+}
+.center {
+	text-align: center;
+
+}
+
+.contact {
+	font-size: 28px;
+	padding: 30px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+.contact a {
+	color: red;
+}
+
+.contact a:hover {
+	text-decoration: line-through;
+}
+
+.contact a:not(:last-child) {
+	margin-right: 1rem;
+}
+
+
+.icons{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	transform: translateY(7%);
+
+}
+
+.margin-top-0 {
+	margin-top: 0;
+}
+
+.width-100 {
+	width: 100%;
+}
+
+.block-center{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-link {
+	color: black
+}
+
+.color-red-black {
+	background-image: linear-gradient(black, #E80000);
+}
+.bois--contact {
+	margin-bottom: 0px;
+}
