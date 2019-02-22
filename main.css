@@ -1,6 +1,6 @@
 body {
 	font-family: 'Impact', sans-serif;
-	background-image: url("./img/fume_fond.jpg"); 
+	background-image: url("./img/fume_fond.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #B22222;
@@ -78,6 +78,11 @@ body {
 	margin-bottom: 300px;
 	filter: drop-shadow(0 0 0.75rem #9E3500);
 }
+
+.bois--contact {
+	margin-bottom: 0px;
+}
+
 .center {
 	text-align: center;
 
@@ -133,7 +138,4 @@ body {
 
 .color-red-black {
 	background-image: linear-gradient(black, #E80000);
-}
-.bois--contact {
-	margin-bottom: 0px;
 }
