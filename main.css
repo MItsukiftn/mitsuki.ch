@@ -53,13 +53,22 @@ body {
 }
 
 .twitch-player {
-	width: 58%;
+	width: 100%;
 }
 
 .twitch-chat {
-	width: 18%;
+	width: 100%;
 }
 
+@media (min-width: 930px) {
+	.twitch-player {
+		width: 58%;
+	}
+	
+	.twitch-chat {
+		width: 18%;
+	}
+}
 
 .ban {
 	width: 100%;
