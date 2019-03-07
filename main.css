@@ -159,3 +159,12 @@ body {
 .color-red-black {
 	background-image: linear-gradient(black, #E80000);
 }
+
+.marginyt {
+	margin-left: 300px;
+}
+
+.marginvideotext {
+	margin-left: 300px;
+	color: black;
+}
